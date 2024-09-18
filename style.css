@@ -1,0 +1,8 @@
+.container{
+    text-align: center;
+}
+.cards{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+}
